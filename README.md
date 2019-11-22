@@ -1,4 +1,4 @@
-# Language Generation
+# Text Generation
 ```
 $ git clone https://github.com/hskaailabnlp/text_generation.git
 $ cd text_generation
